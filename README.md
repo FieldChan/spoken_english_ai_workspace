@@ -18,7 +18,24 @@ The focus is practical spoken English for daily work in an international company
 - `training/`: daily and weekly speaking practice plans
 - `prompts/`: prompts for extracting useful expressions from real ChatGPT conversations
 - `handbook/docx/`: original 10-chapter Word handbook exported from ChatGPT conversation history
+- `templates/`: reusable log templates
+- `logs/`: daily practice logs and weekly/monthly reviews
+- `scripts/`: helper commands for committing and pushing daily results
 
 ## Practice Principle
 
 The goal is not to collect beautiful sentences. The goal is to turn frequent real work scenarios into spoken responses that can be used naturally and quickly.
+
+## Current Plan
+
+Start from `training/english-improvement-plan.md`.
+
+Daily workflow:
+
+1. Practice one workplace scenario.
+2. Save the result in `logs/YYYY-MM-DD.md`.
+3. Sync the result to GitHub:
+
+```bash
+./scripts/daily-sync.sh logs/YYYY-MM-DD.md
+```
