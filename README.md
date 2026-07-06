@@ -17,6 +17,7 @@ The focus is practical spoken English for daily work in an international company
 - `phrasebook/`: reusable workplace English patterns
 - `training/`: daily and weekly speaking practice plans
 - `prompts/`: prompts for extracting useful expressions from real ChatGPT conversations
+- `handbook/docx/`: original 10-chapter Word handbook exported from ChatGPT conversation history
 
 ## Practice Principle
 
