@@ -21,6 +21,7 @@ The focus is practical spoken English for daily work in an international company
 - `templates/`: reusable log templates
 - `logs/`: daily practice logs and weekly/monthly reviews
 - `scripts/`: helper commands for committing and pushing daily results
+- `docs/`: source conversation summaries and project notes
 
 ## Practice Principle
 
@@ -29,6 +30,8 @@ The goal is not to collect beautiful sentences. The goal is to turn frequent rea
 ## Current Plan
 
 Start from `training/english-improvement-plan.md`.
+
+The original Codex conversation background has been migrated into `docs/source-thread-019f3535-summary.md`.
 
 Daily workflow:
 
