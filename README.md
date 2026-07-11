@@ -18,6 +18,7 @@ The focus is practical spoken English for daily work in an international company
 - `training/`: daily and weekly speaking practice plans
 - `prompts/`: prompts for extracting useful expressions from real ChatGPT conversations
 - `handbook/docx/`: original 10-chapter Word handbook exported from ChatGPT conversation history
+- `error-bank/`: repeated mistake tracker and spaced review prompts
 - `templates/`: reusable log templates
 - `logs/`: daily practice logs and weekly/monthly reviews
 - `scripts/`: helper commands for committing and pushing daily results
@@ -36,8 +37,10 @@ The original Codex conversation background has been migrated into `docs/source-t
 Daily workflow:
 
 1. Practice one workplace scenario.
-2. Save the result in `logs/YYYY-MM-DD.md`.
-3. Sync the result to GitHub:
+2. Review due items from `error-bank/personal-error-bank.md`.
+3. Include one realistic scenario from the relevant handbook chapter.
+4. Save the result in `logs/YYYY-MM-DD.md`.
+5. Sync the result to GitHub:
 
 ```bash
 ./scripts/daily-sync.sh logs/YYYY-MM-DD.md
