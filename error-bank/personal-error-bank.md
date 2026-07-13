@@ -62,9 +62,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-07
-Last reviewed: 2026-07-09
-Next review: 2026-07-12
-Review count: 1
+Last reviewed: 2026-07-13
+Next review: 2026-07-16
+Review count: 2
 
 Weak version:
 
@@ -92,9 +92,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-07
-Last reviewed:
-Next review: 2026-07-09
-Review count: 0
+Last reviewed: 2026-07-13
+Next review: 2026-07-16
+Review count: 1
 
 Weak version:
 
@@ -152,9 +152,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-08
-Last reviewed:
-Next review: 2026-07-09
-Review count: 0
+Last reviewed: 2026-07-12
+Next review: 2026-07-15
+Review count: 1
 
 Weak version:
 
@@ -182,9 +182,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-08
-Last reviewed:
-Next review: 2026-07-09
-Review count: 0
+Last reviewed: 2026-07-12
+Next review: 2026-07-13
+Review count: 1
 
 Weak version:
 
