@@ -212,9 +212,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-08
-Last reviewed: 2026-07-10
-Next review: 2026-07-13
-Review count: 1
+Last reviewed: 2026-07-14
+Next review: 2026-07-15
+Review count: 2
 
 Weak version:
 
@@ -242,9 +242,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-09
-Last reviewed: 2026-07-10
-Next review: 2026-07-13
-Review count: 1
+Last reviewed: 2026-07-14
+Next review: 2026-07-17
+Review count: 2
 
 Weak version:
 
@@ -257,6 +257,66 @@ Better version:
 Pattern:
 
 Use `help + base verb` or `help with + noun`. Do not use `help to review` in this workplace request pattern.
+
+### ERR-2026-07-14-01: "suggest to use" vs "suggest using"
+
+Status: Active
+First seen: 2026-07-14
+Last reviewed:
+Next review: 2026-07-15
+Review count: 0
+
+Weak version:
+
+> We recommend to use a prefix + object_key approach.
+
+Better version:
+
+> We recommend using a prefix + object_key approach.
+
+Pattern:
+
+Use `suggest/recommend + -ing` or `suggest/recommend that we + base verb`.
+
+Trigger:
+
+When proposing an implementation, workflow, or technical direction.
+
+Review prompts:
+
+1. 中文：我们建议使用这个方案。
+2. 中文：我们建议先在测试环境验证这个变更。
+3. 中文：我建议我们按这个方向继续推进。
+
+### ERR-2026-07-14-02: "Do you think whether if" question structure
+
+Status: Active
+First seen: 2026-07-14
+Last reviewed:
+Next review: 2026-07-15
+Review count: 0
+
+Weak version:
+
+> Do you think whether if we should proceed?
+
+Better version:
+
+> Do you think we should proceed?
+
+Pattern:
+
+Use either `Do you think + clause?` or `Could you confirm whether + clause?` Never combine `Do you think`, `whether`, and `if` in one question.
+
+Trigger:
+
+When asking an EU colleague to confirm whether a proposal, PR, or deployment should move forward.
+
+Review prompts:
+
+1. 中文：你觉得我们是否应该继续推进？
+2. 中文：你觉得这个方案是否合适？
+3. 中文：你能否确认我们是否可以继续 deployment？
 
 Trigger:
 
