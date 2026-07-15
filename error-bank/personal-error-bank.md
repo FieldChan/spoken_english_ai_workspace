@@ -262,9 +262,9 @@ Use `help + base verb` or `help with + noun`. Do not use `help to review` in thi
 
 Status: Active
 First seen: 2026-07-14
-Last reviewed:
-Next review: 2026-07-15
-Review count: 0
+Last reviewed: 2026-07-15
+Next review: 2026-07-16
+Review count: 1
 
 Weak version:
 
@@ -292,9 +292,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-14
-Last reviewed:
-Next review: 2026-07-15
-Review count: 0
+Last reviewed: 2026-07-15
+Next review: 2026-07-16
+Review count: 1
 
 Weak version:
 
