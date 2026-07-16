@@ -98,6 +98,20 @@ Default daily mix:
 
 Do not create a daily task that only introduces new expressions. Every day must include at least one review question from previous mistakes once the error bank is non-empty.
 
+### New-Scenario Anti-Repetition Rule
+
+The main scenario and handbook scenario should introduce a new workplace intent. Do not reuse the same intent from the previous 7 training days unless it is a real message the user needs to send that day.
+
+Allowed repetition:
+
+- the 2 error-bank review prompts required by spaced repetition
+- one brief continuation when a multi-turn simulation genuinely needs it
+- a real urgent work message supplied by the user
+
+Avoid repeating the same PR follow-up, deployment confirmation, legal-field clarification, or environment-alignment scenario as the main task. Change the communication goal as well as the noun: for example, move from requesting review to summarizing a decision, reporting a blocker, requesting an owner, scheduling a meeting, or validating a dataset.
+
+Before generating a task, compare the candidate scenario with the most recent 7 log files. If the core intent is already present, choose the next unused handbook scenario for the current week instead.
+
 ## Error Bank Protocol
 
 When a mistake appears more than once, or when it blocks natural workplace communication, add it to `error-bank/personal-error-bank.md`.
