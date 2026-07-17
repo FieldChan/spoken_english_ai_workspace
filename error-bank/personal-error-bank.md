@@ -262,9 +262,9 @@ Use `help + base verb` or `help with + noun`. Do not use `help to review` in thi
 
 Status: Active
 First seen: 2026-07-14
-Last reviewed: 2026-07-15
-Next review: 2026-07-16
-Review count: 1
+Last reviewed: 2026-07-17
+Next review: 2026-07-20
+Review count: 2
 
 Weak version:
 
@@ -292,9 +292,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-14
-Last reviewed: 2026-07-15
-Next review: 2026-07-16
-Review count: 1
+Last reviewed: 2026-07-17
+Next review: 2026-07-18
+Review count: 2
 
 Weak version:
 
@@ -317,6 +317,36 @@ Review prompts:
 1. 中文：你觉得我们是否应该继续推进？
 2. 中文：你觉得这个方案是否合适？
 3. 中文：你能否确认我们是否可以继续 deployment？
+
+### ERR-2026-07-17-01: "Could you help if..." vs "Could you help check whether...?"
+
+Status: Active
+First seen: 2026-07-17
+Last reviewed:
+Next review: 2026-07-18
+Review count: 0
+
+Weak version:
+
+> Could you please help if the pipeline is still running as expected?
+
+Better version:
+
+> Could you please help check whether the pipeline is still running as expected?
+
+Pattern:
+
+After `Could you help`, add a base verb such as `check`, `confirm`, or `verify`. Use `whether` to introduce the question being checked.
+
+Trigger:
+
+When asking someone to investigate a pipeline, job, dataset, configuration, or incident.
+
+Review prompts:
+
+1. 中文：你能帮忙确认一下 pipeline 是否正常运行吗？
+2. 中文：你能帮忙检查一下这个 job 是否已经完成了吗？
+3. 中文：你能帮忙确认一下数据集是否已经 ready 了吗？
 
 Trigger:
 
