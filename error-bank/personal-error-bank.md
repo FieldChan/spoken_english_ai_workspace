@@ -262,9 +262,9 @@ Use `help + base verb` or `help with + noun`. Do not use `help to review` in thi
 
 Status: Active
 First seen: 2026-07-14
-Last reviewed: 2026-07-17
-Next review: 2026-07-20
-Review count: 2
+Last reviewed: 2026-07-21
+Next review: 2026-07-28
+Review count: 3
 
 Weak version:
 
@@ -322,9 +322,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-17
-Last reviewed:
-Next review: 2026-07-18
-Review count: 0
+Last reviewed: 2026-07-21
+Next review: 2026-07-24
+Review count: 1
 
 Weak version:
 
@@ -347,6 +347,66 @@ Review prompts:
 1. 中文：你能帮忙确认一下 pipeline 是否正常运行吗？
 2. 中文：你能帮忙检查一下这个 job 是否已经完成了吗？
 3. 中文：你能帮忙确认一下数据集是否已经 ready 了吗？
+
+### ERR-2026-07-21-01: "apply for a role" vs "contact a person"
+
+Status: Active
+First seen: 2026-07-21
+Last reviewed:
+Next review: 2026-07-22
+Review count: 0
+
+Weak version:
+
+> Which role do we need and whom should we apply for?
+
+Better version:
+
+> Which role should we apply for, and who should we contact?
+
+Pattern:
+
+Apply for a role, permission, or access. Contact or reach out to a person or team.
+
+Trigger:
+
+When asking how to obtain access, which permission is needed, or who owns the approval process.
+
+Review prompts:
+
+1. 中文：我们应该申请哪个 role，以及联系谁？
+2. 中文：这个访问权限应该申请给哪个 team？
+3. 中文：谁能帮忙批准这个 access request？
+
+### ERR-2026-07-21-02: "On the other hand" used without contrast
+
+Status: Active
+First seen: 2026-07-21
+Last reviewed:
+Next review: 2026-07-22
+Review count: 0
+
+Weak version:
+
+> On the other hand, could you share the S3 path?
+
+Better version:
+
+> Also, could you share the S3 path?
+
+Pattern:
+
+Use `Also` or `In addition` to add a related request. Use `On the other hand` only when contrasting two ideas.
+
+Trigger:
+
+When adding a second request or a related technical detail in the same message.
+
+Review prompts:
+
+1. 中文：另外，你能分享一下 S3 path 吗？
+2. 中文：此外，我们也需要确认 schema 版本。
+3. 中文：另一方面，这个方案的维护成本更高。
 
 Trigger:
 

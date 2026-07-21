@@ -604,7 +604,11 @@ After Day 7, continue Week 2 from this plan.
 
 GitHub is part of the learning system, not just backup.
 
-Every training day must produce a commit.
+Every completed training session must be committed and pushed immediately. This includes the daily log and any related error-bank, phrasebook, or training-plan updates made during that session.
+
+Do not treat a local log as complete until `git status -sb` confirms the branch is synchronized with `origin/main`.
+
+If a push needs approval, request it as the final completion step instead of deferring the sync to a later day.
 
 Default command:
 
