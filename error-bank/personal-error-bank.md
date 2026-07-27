@@ -352,9 +352,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-21
-Last reviewed: 2026-07-23
-Next review: 2026-07-24
-Review count: 1
+Last reviewed: 2026-07-27
+Next review: 2026-07-28
+Review count: 2
 
 Weak version:
 
@@ -382,9 +382,9 @@ Review prompts:
 
 Status: Active
 First seen: 2026-07-21
-Last reviewed: 2026-07-23
-Next review: 2026-07-24
-Review count: 1
+Last reviewed: 2026-07-27
+Next review: 2026-07-30
+Review count: 2
 
 Weak version:
 
@@ -407,6 +407,36 @@ Review prompts:
 1. 中文：另外，你能分享一下 S3 path 吗？
 2. 中文：此外，我们也需要确认 schema 版本。
 3. 中文：另一方面，这个方案的维护成本更高。
+
+### ERR-2026-07-27-01: "I will helping" vs "I will be helping"
+
+Status: Active
+First seen: 2026-07-27
+Last reviewed:
+Next review: 2026-07-28
+Review count: 0
+
+Weak version:
+
+> I will helping handle this data exchange.
+
+Better version:
+
+> I'll be helping with this data exchange.
+
+Pattern:
+
+Use `will + base verb` or `will be + -ing`: `I will help` / `I will be helping`. For a project or process, `help with` is usually more natural than `help handle`.
+
+Trigger:
+
+When telling colleagues that I will support a task, project, investigation, or data exchange.
+
+Review prompts:
+
+1. 中文：我会协助处理这个 data exchange。
+2. 中文：下周我会帮忙跟进这个 issue。
+3. 中文：我会协助 Han 完成这次 validation。
 
 Trigger:
 
