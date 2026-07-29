@@ -2,3 +2,9 @@
 *.tmp
 *.log
 
+# Practice audio. Kept locally only — audio would bloat the repo and the
+# transcript in each daily log is the artifact that matters.
+recordings/
+*.m4a
+*.mp3
+*.wav
