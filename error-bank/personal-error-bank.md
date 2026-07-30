@@ -149,10 +149,10 @@ Review prompts:
 Family: B
 Status: Active
 First seen: 2026-07-14
-Last reviewed: 2026-07-21
-Next review: 2026-07-29
-Correct streak: 0/3
-Scenarios passed:
+Last reviewed: 2026-07-30
+Next review: 2026-08-02
+Correct streak: 1/3
+Scenarios passed: 2026-07-30 schema validation status update
 Legacy IDs: ERR-2026-07-14-02, ERR-2026-07-17-01
 
 Weak version:
@@ -188,9 +188,9 @@ Review prompts:
 Family: B
 Status: Active
 First seen: 2026-07-21
-Last reviewed: 2026-07-27
-Next review: 2026-07-29
-Correct streak: 1/3
+Last reviewed: 2026-07-30
+Next review: 2026-07-31
+Correct streak: 0/3
 Scenarios passed: 2026-07-24 access request follow-up
 Legacy IDs: ERR-2026-07-21-01
 
@@ -206,7 +206,7 @@ Pattern:
 
 Two issues in one sentence. Collocation: `apply for` takes a role, permission, or access; `contact` or `reach out to` takes a person or team. Word order: use direct-question order in a direct question — `Which role should we...`, not `which role we should...`.
 
-Note: the direct-question word order recurred during the 2026-07-24 review even though the final version was correct. Not yet automatic.
+Note: the direct-question word order recurred during the 2026-07-24 and 2026-07-30 reviews. Not yet automatic.
 
 Trigger:
 
@@ -324,7 +324,7 @@ Review prompts:
 Family: D
 Status: Active
 First seen: 2026-07-08
-Last reviewed: 2026-07-15
+Last reviewed: 2026-07-30
 Next review: 2026-07-31
 Correct streak: 0/3
 Scenarios passed:
@@ -341,6 +341,8 @@ Better version:
 Pattern:
 
 `affect` is the verb for direct technical impact. `influence` implies persuasion or gradual shaping and sounds wrong about systems. Also watch the passive: `we are not influenced` inverts the subject — the change affects the environment, not the other way round.
+
+Note: `influence data quality` recurred during the 2026-07-30 handbook review. Use `affect data quality` without `the` when referring to data quality in general.
 
 Trigger:
 
