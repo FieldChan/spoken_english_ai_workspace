@@ -291,8 +291,8 @@ Review prompts:
 Family: D
 Status: Active
 First seen: 2026-07-07
-Last reviewed: 2026-07-13
-Next review: 2026-07-31
+Last reviewed: 2026-08-02
+Next review: 2026-08-03
 Correct streak: 0/3
 Scenarios passed:
 Legacy IDs: ERR-2026-07-07-02
@@ -309,6 +309,8 @@ Pattern:
 
 `let me know` covers 告诉我 / 同步我 / 让我知道 in workplace chat. `post` means publishing something, not informing a person. For ongoing updates, `keep me posted` is the fixed phrase — note that `keep me posted` is idiomatic while `post to me` is not.
 
+Note: `tell me in time` recurred during the 2026-08-02 weekly review. Use `let me know` for a direct update request or `keep me posted` for ongoing updates.
+
 Trigger:
 
 When I want someone to tell me about blockers, questions, updates, or concerns.
@@ -324,8 +326,8 @@ Review prompts:
 Family: D
 Status: Active
 First seen: 2026-07-08
-Last reviewed: 2026-07-30
-Next review: 2026-07-31
+Last reviewed: 2026-08-02
+Next review: 2026-08-03
 Correct streak: 0/3
 Scenarios passed:
 Legacy IDs: ERR-2026-07-08-03
@@ -342,7 +344,7 @@ Pattern:
 
 `affect` is the verb for direct technical impact. `influence` implies persuasion or gradual shaping and sounds wrong about systems. Also watch the passive: `we are not influenced` inverts the subject — the change affects the environment, not the other way round.
 
-Note: `influence data quality` recurred during the 2026-07-30 handbook review. Use `affect data quality` without `the` when referring to data quality in general.
+Note: `influence data quality` recurred during the 2026-07-30 handbook review. On 2026-08-02, `affect` was selected correctly, but the full contrast still needed correction: `This only affects A, not B.`
 
 Trigger:
 
