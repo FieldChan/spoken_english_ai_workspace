@@ -291,8 +291,8 @@ Review prompts:
 Family: D
 Status: Active
 First seen: 2026-07-07
-Last reviewed: 2026-08-02
-Next review: 2026-08-03
+Last reviewed: 2026-08-04
+Next review: 2026-08-05
 Correct streak: 0/3
 Scenarios passed:
 Legacy IDs: ERR-2026-07-07-02
@@ -309,7 +309,7 @@ Pattern:
 
 `let me know` covers 告诉我 / 同步我 / 让我知道 in workplace chat. `post` means publishing something, not informing a person. For ongoing updates, `keep me posted` is the fixed phrase — note that `keep me posted` is idiomatic while `post to me` is not.
 
-Note: `tell me in time` recurred during the 2026-08-02 weekly review. Use `let me know` for a direct update request or `keep me posted` for ongoing updates.
+Note: `tell me in time` recurred during the 2026-08-02 weekly review. `Please tell me if...` recurred in the 2026-08-04 decision-summary scenario. Use `let me know` for a direct update request or `keep me posted` for ongoing updates.
 
 Trigger:
 
@@ -396,10 +396,10 @@ Review prompts:
 Family: E
 Status: Active
 First seen: 2026-07-08
-Last reviewed: 2026-07-15
-Next review: 2026-08-03
-Correct streak: 0/3
-Scenarios passed:
+Last reviewed: 2026-08-04
+Next review: 2026-08-07
+Correct streak: 1/3
+Scenarios passed: 2026-08-04 deadline clarification
 Legacy IDs: ERR-2026-07-08-01
 
 Weak version:
@@ -429,8 +429,8 @@ Review prompts:
 Family: E
 Status: Active
 First seen: 2026-07-08
-Last reviewed: 2026-07-15
-Next review: 2026-08-03
+Last reviewed: 2026-08-04
+Next review: 2026-08-05
 Correct streak: 0/3
 Scenarios passed:
 Legacy IDs: ERR-2026-07-08-02
@@ -448,6 +448,8 @@ Pattern:
 `lack` is either a verb without `of` (`I lack context`) or a noun with it (`a lack of context`) — never `lack of` as a verb. In this situation `missing some context` is the natural choice. Also fix the tense: the misunderstanding is past, so `misunderstood`.
 
 `I might be missing some context here` is a Track A core chunk — the present-tense version is the more useful reflex.
+
+Note: `lack of` as a verb and the incorrect form `I misunderstanding` recurred during the 2026-08-04 review.
 
 Trigger:
 
