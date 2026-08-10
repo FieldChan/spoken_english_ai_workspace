@@ -291,10 +291,10 @@ Review prompts:
 Family: D
 Status: Active
 First seen: 2026-07-07
-Last reviewed: 2026-08-04
-Next review: 2026-08-05
-Correct streak: 0/3
-Scenarios passed:
+Last reviewed: 2026-08-10
+Next review: 2026-08-13
+Correct streak: 1/3
+Scenarios passed: 2026-08-10 timeline-change follow-up
 Legacy IDs: ERR-2026-07-07-02
 
 Weak version:
@@ -326,8 +326,8 @@ Review prompts:
 Family: D
 Status: Active
 First seen: 2026-07-08
-Last reviewed: 2026-08-02
-Next review: 2026-08-03
+Last reviewed: 2026-08-10
+Next review: 2026-08-11
 Correct streak: 0/3
 Scenarios passed:
 Legacy IDs: ERR-2026-07-08-03
@@ -344,7 +344,7 @@ Pattern:
 
 `affect` is the verb for direct technical impact. `influence` implies persuasion or gradual shaping and sounds wrong about systems. Also watch the passive: `we are not influenced` inverts the subject — the change affects the environment, not the other way round.
 
-Note: `influence data quality` recurred during the 2026-07-30 handbook review. On 2026-08-02, `affect` was selected correctly, but the full contrast still needed correction: `This only affects A, not B.`
+Note: `influence data quality` recurred during the 2026-07-30 handbook review. On 2026-08-02, `affect` was selected correctly, but the full contrast still needed correction: `This only affects A, not B.` On 2026-08-10, `reduce the influence` and `new influence` recurred; use `minimize the impact` and `new risks arise`.
 
 Trigger:
 
@@ -429,8 +429,8 @@ Review prompts:
 Family: E
 Status: Active
 First seen: 2026-07-08
-Last reviewed: 2026-08-04
-Next review: 2026-08-05
+Last reviewed: 2026-08-10
+Next review: 2026-08-11
 Correct streak: 0/3
 Scenarios passed:
 Legacy IDs: ERR-2026-07-08-02
@@ -449,7 +449,7 @@ Pattern:
 
 `I might be missing some context here` is a Track A core chunk — the present-tense version is the more useful reflex.
 
-Note: `lack of` as a verb and the incorrect form `I misunderstanding` recurred during the 2026-08-04 review.
+Note: `lack of` as a verb and the incorrect form `I misunderstanding` recurred during the 2026-08-04 review. On 2026-08-10, `lack` was grammatically improved, but `missing some context` was still not automatic and `confirm` lacked an object.
 
 Trigger:
 
