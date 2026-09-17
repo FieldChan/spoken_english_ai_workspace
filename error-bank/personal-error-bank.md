@@ -149,10 +149,10 @@ Review prompts:
 Family: B
 Status: Active
 First seen: 2026-07-14
-Last reviewed: 2026-07-30
-Next review: 2026-08-02
-Correct streak: 1/3
-Scenarios passed: 2026-07-30 schema validation status update
+Last reviewed: 2026-09-17
+Next review: 2026-09-18
+Correct streak: 0/3
+Scenarios passed:
 Legacy IDs: ERR-2026-07-14-02, ERR-2026-07-17-01
 
 Weak version:
@@ -207,6 +207,8 @@ Pattern:
 Two issues in one sentence. Collocation: `apply for` takes a role, permission, or access; `contact` or `reach out to` takes a person or team. Word order: use direct-question order in a direct question — `Which role should we...`, not `which role we should...`.
 
 Note: the direct-question word order recurred during the 2026-07-24 and 2026-07-30 reviews. Not yet automatic.
+
+Note: on 2026-09-17, `who follow this` and `what is the next step` recurred in an ownership-and-next-steps question. Use `who will follow up on this` and indirect-question order: `what the next step is`.
 
 Trigger:
 
@@ -326,8 +328,8 @@ Review prompts:
 Family: D
 Status: Active
 First seen: 2026-07-08
-Last reviewed: 2026-08-10
-Next review: 2026-08-11
+Last reviewed: 2026-09-17
+Next review: 2026-09-18
 Correct streak: 0/3
 Scenarios passed:
 Legacy IDs: ERR-2026-07-08-03
@@ -345,6 +347,8 @@ Pattern:
 `affect` is the verb for direct technical impact. `influence` implies persuasion or gradual shaping and sounds wrong about systems. Also watch the passive: `we are not influenced` inverts the subject — the change affects the environment, not the other way round.
 
 Note: `influence data quality` recurred during the 2026-07-30 handbook review. On 2026-08-02, `affect` was selected correctly, but the full contrast still needed correction: `This only affects A, not B.` On 2026-08-10, `reduce the influence` and `new influence` recurred; use `minimize the impact` and `new risks arise`.
+
+Note: on 2026-09-17, `impact` was used correctly as a verb, but the contrast sentence was not completed cleanly after correction. Keep this item at 0/3 and review it next session.
 
 Trigger:
 
@@ -396,10 +400,10 @@ Review prompts:
 Family: E
 Status: Active
 First seen: 2026-07-08
-Last reviewed: 2026-08-04
-Next review: 2026-08-07
-Correct streak: 1/3
-Scenarios passed: 2026-08-04 deadline clarification
+Last reviewed: 2026-09-17
+Next review: 2026-09-24
+Correct streak: 2/3
+Scenarios passed: 2026-08-04 deadline clarification, 2026-09-17 plan-feasibility clarification
 Legacy IDs: ERR-2026-07-08-01
 
 Weak version:
