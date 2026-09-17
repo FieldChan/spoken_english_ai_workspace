@@ -16,6 +16,7 @@ The goal is not to collect good sentences. The goal is to turn frequent real wor
 - `error-bank/personal-error-bank.md` — active errors grouped into 5 pattern families, with spaced review and graduation tracking.
 - `error-bank/translation-trap-candidates.md` — on-demand prompts mined from translation-oriented project conversations; candidates enter the active bank only after a spoken recurrence.
 - `phrasebook/automated-chunks.md` — Track A core and graduation record.
+- `phrasebook/project-translation-collocations.md` — reusable Chinese-to-English workplace collocations mined from this project's translation threads.
 - `phrasebook/chinglish-replacements.md` — the 2-minute checklist run against each day's transcript.
 - `phrasebook/batch-1-workplace-english.md` — first phrasebook batch.
 - `templates/daily-practice-log.md` — daily log template.
