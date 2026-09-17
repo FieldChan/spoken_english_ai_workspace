@@ -14,6 +14,7 @@ The goal is not to collect good sentences. The goal is to turn frequent real wor
 - `handbook/md/` — 329 scenarios extracted from real workplace conversations, across 10 chapters. Greppable scenario bank.
 - `handbook/docx/` — original Word exports. Archive; work from the markdown.
 - `error-bank/personal-error-bank.md` — active errors grouped into 5 pattern families, with spaced review and graduation tracking.
+- `error-bank/translation-trap-candidates.md` — on-demand prompts mined from translation-oriented project conversations; candidates enter the active bank only after a spoken recurrence.
 - `phrasebook/automated-chunks.md` — Track A core and graduation record.
 - `phrasebook/chinglish-replacements.md` — the 2-minute checklist run against each day's transcript.
 - `phrasebook/batch-1-workplace-english.md` — first phrasebook batch.
