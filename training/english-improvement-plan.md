@@ -215,6 +215,15 @@ Each weekday task has three inputs:
 2. **Two error-bank reviews** from `error-bank/personal-error-bank.md`, prioritizing overdue items, then the family with the most active entries.
 3. **Track A core drill**, all ten chunks, timed.
 
+### Living Translation Source
+
+`codex://threads/019f4100-abcc-7843-8673-32d28bb54df0` is the ongoing translation conversation for messages to EU colleagues. Treat new user-added scenarios there as a living source of authentic workplace language.
+
+- Mine newly added scenarios incrementally; do not re-extract the whole thread each time.
+- Add reusable Chinese-to-English collocations to `phrasebook/project-translation-collocations.md` when they are not already covered.
+- Use a newly mined scenario as a Track B prompt only after checking the last 7 logs for the same intent.
+- Add a pattern to `error-bank/personal-error-bank.md` only after it recurs in the user's spoken or written training response; otherwise keep it as a candidate in `error-bank/translation-trap-candidates.md`.
+
 Time split:
 
 - 5 min Track A automation core

@@ -7,6 +7,7 @@ Use it when the user asks to mine translation-oriented conversations in this pro
 ## Source Reviewed
 
 - `翻译给EU同事的消息` - 22 accessible workplace translation scenarios, reviewed 2026-09-17.
+- `codex://threads/019f4100-abcc-7843-8673-32d28bb54df0` - ongoing EU-colleague translation thread. Mine new additions incrementally whenever generating future training material; do not treat this as a one-time review.
 
 ## Candidate 1: Dataset update state and pipeline state
 
