@@ -27,6 +27,10 @@ Use this as a retrieval list for Chinese-to-English speaking practice. It is not
 | 恢复 pipeline | `resume the pipeline` | `Could you advise who can help resume the pipeline?` |
 | 改为每日运行 | `switch the pipeline to run daily` | `Would it be possible to switch the pipeline to run daily?` |
 | 额外投入或成本 | `significant effort or additional cost` | `Would that require significant effort or additional cost?` |
+| source table 被替换 | `has been replaced with a new table` | `The source dataset has been replaced with a new table.` |
+| 核对 schema 是否变化 | `verify whether the schema has changed` | `Could you verify whether the schema has changed?` |
+| 将 pipeline 指向新表 | `update the pipeline to use the new source table` | `Could you update the pipeline to use the new source table?` |
+| 下游影响 | `downstream impacts` | `Please keep me posted if there are any downstream impacts.` |
 
 ## 3. Data Validation and Migration Gates
 
@@ -59,6 +63,8 @@ Use this as a retrieval list for Chinese-to-English speaking practice. It is not
 | 排查原因 | `investigate what might be causing this issue` | `Could you help us investigate what might be causing this issue?` |
 | 采集或覆盖缺口 | `a gap in data ingestion or coverage` | `Could there be a gap in data ingestion or coverage?` |
 | 找到数据 owner | `reach out to the data owner` | `We will reach out to the data owner for help resolving it.` |
+| mock 数据 | `This is mock data.` | `This is mock data. If you notice any issues, please contact me.` |
+| 格式或内容问题 | `issues with the data format or content` | `If you notice any issues with the data format or content, please feel free to contact me.` |
 
 ## 6. Clarify and Request Context
 

@@ -188,8 +188,8 @@ Review prompts:
 Family: B
 Status: Active
 First seen: 2026-07-21
-Last reviewed: 2026-07-30
-Next review: 2026-07-31
+Last reviewed: 2026-11-02
+Next review: 2026-11-03
 Correct streak: 0/3
 Scenarios passed: 2026-07-24 access request follow-up
 Legacy IDs: ERR-2026-07-21-01
@@ -209,6 +209,8 @@ Two issues in one sentence. Collocation: `apply for` takes a role, permission, o
 Note: the direct-question word order recurred during the 2026-07-24 and 2026-07-30 reviews. Not yet automatic.
 
 Note: on 2026-09-17, `who follow this` and `what is the next step` recurred in an ownership-and-next-steps question. Use `who will follow up on this` and indirect-question order: `what the next step is`.
+
+Note: on 2026-11-02, `which role we should apply and which one we should contact` recurred. Use direct-question order and the two collocations: `Which role should we apply for, and who should we contact?`
 
 Trigger:
 
@@ -260,9 +262,9 @@ Review prompts:
 Family: C
 Status: Active
 First seen: 2026-07-07
-Last reviewed: 2026-07-09
-Next review: 2026-07-30
-Correct streak: 0/3
+Last reviewed: 2026-11-02
+Next review: 2026-11-05
+Correct streak: 1/3
 Scenarios passed:
 Legacy IDs: ERR-2026-07-07-03
 
@@ -328,8 +330,8 @@ Review prompts:
 Family: D
 Status: Active
 First seen: 2026-07-08
-Last reviewed: 2026-09-17
-Next review: 2026-09-18
+Last reviewed: 2026-11-02
+Next review: 2026-11-03
 Correct streak: 0/3
 Scenarios passed:
 Legacy IDs: ERR-2026-07-08-03
