@@ -209,6 +209,19 @@ A missed weekday is a miss and should be noted. A quiet weekend is the design.
 
 ## Daily Task Generation Rule
 
+### Meeting Practice Override (2026-11-02)
+
+This section takes precedence over the older daily drill and time-split rules below. Michael confirmed 25 minutes per session and requested daily topics from the `职场英语训练` conversation (`019f3a84-7fd9-7b53-972f-25baf128619e`).
+
+- Use that conversation's actual responses and work scenarios, the living translation source below, and any user-provided meeting notes as source material. Check recent logs to avoid repeating the same main intent. Record the source and distinguish established facts from fictional exercise assumptions.
+- Daily session: 7 minutes listening, 3 minutes selective shadowing, 5 minutes independent explanation, 7 minutes meeting questions, and 3 minutes correction and logging. Adapt within 25 minutes to preserve meaningful independent speaking; do not end after a few repeated sentences.
+- Listening requires English audio or live English speech, not a Chinese paraphrase. Use a short segment, ask comprehension questions before revealing its transcript, then inspect missed meaning. Written meeting notes can inspire a clearly labelled simulated listening script but cannot establish the user's real-world listening ability.
+- Independent speaking: one 60-90 second first attempt using keywords rather than a full translated script. Follow with 4-6 substantive questions, one at a time, covering clarification, reasons, trade-offs, ownership, status, and next steps.
+- Let the user finish each turn. Correct at most two communication-relevant issues per turn. Accept valid alternative wording; do not require verbatim repetition or three register variants by default. In particular, both `help review` and `help to review` are grammatical.
+- Incorporate two due error patterns into the discussion rather than adding disconnected translation worksheets. Revisit key patterns after 1, 3, and 7 days in changed contexts.
+- Use available source material without waiting for meeting notes. User-provided notes improve relevance; audio, if provided, supports listening practice. Do not fabricate missing meeting facts, completion, timing, or audio measurements.
+- Log actual practice and source references, then commit and push only related files. Keep raw work recordings and full meeting notes local unless the user explicitly requests their publication; repository exercises can use generalized names and details.
+
 Each weekday task has three inputs:
 
 1. **Track B scenario** from the current theme's chapters in `handbook/md/`.
